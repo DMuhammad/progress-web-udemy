@@ -5,3 +5,5 @@ Progress belajar web development
 HTML
 # Rabu 5-1-2022 (64/453)
 CSS
+# Kamis 6-1-2022 (77/453)
+Bootstrap
