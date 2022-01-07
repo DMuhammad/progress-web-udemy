@@ -7,3 +7,5 @@ HTML
 CSS
 # Kamis 6-1-2022 (77/453)
 Bootstrap
+# Jumat 7-1-2022 (80/453)
+Bootstrap
