@@ -9,3 +9,5 @@ CSS
 Bootstrap
 # Jumat 7-1-2022 (80/453)
 Bootstrap
+# Sabtu 8-1-2022 (102/453)
+Bootstrap + Web Design
