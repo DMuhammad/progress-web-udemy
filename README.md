@@ -11,3 +11,5 @@ Bootstrap
 Bootstrap
 # Sabtu 8-1-2022 (102/453)
 Bootstrap + Web Design
+# Kamis 13-1-2022 (132/453)
+JS
