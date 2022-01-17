@@ -19,3 +19,5 @@ JS
 DOM
 # Minggu 16-1-2022 (171/453)
 Challenge
+# Senin 17-1-2022 (222/453)
+DOM + JQuery + Challenge
