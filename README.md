@@ -25,3 +25,5 @@ DOM + JQuery + Challenge
 BackEnd (Node + Express)
 # Rabu 19-1-2022 (264/453)
 API's
+# Senin 24-1-2022 (330/453)
+Github, EJS, Challenge
