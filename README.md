@@ -27,3 +27,5 @@ BackEnd (Node + Express)
 API's
 # Senin 24-1-2022 (330/453)
 Github, EJS, Challenge
+# Selasa 25-1-2022 (353/453)
+Databases, SQL, MongoDB, Mongoose
